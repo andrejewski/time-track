@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.js": "/time-track/build/static/js/main.bc333671.chunk.js",
-    "main.js.map": "/time-track/build/static/js/main.bc333671.chunk.js.map",
-    "runtime~main.js": "/time-track/build/static/js/runtime~main.928ce5c7.js",
-    "runtime~main.js.map": "/time-track/build/static/js/runtime~main.928ce5c7.js.map",
-    "static/js/2.c9d721df.chunk.js": "/time-track/build/static/js/2.c9d721df.chunk.js",
-    "static/js/2.c9d721df.chunk.js.map": "/time-track/build/static/js/2.c9d721df.chunk.js.map",
-    "index.html": "/time-track/build/index.html",
-    "precache-manifest.5c5377c25788d6e3d7445937d85b9ac9.js": "/time-track/build/precache-manifest.5c5377c25788d6e3d7445937d85b9ac9.js",
-    "service-worker.js": "/time-track/build/service-worker.js"
+    "main.css": "https://jew.ski/time-track/build/static/css/main.16e064ec.chunk.css",
+    "main.js": "https://jew.ski/time-track/build/static/js/main.e09c7388.chunk.js",
+    "main.js.map": "https://jew.ski/time-track/build/static/js/main.e09c7388.chunk.js.map",
+    "runtime~main.js": "https://jew.ski/time-track/build/static/js/runtime~main.8b8040f4.js",
+    "runtime~main.js.map": "https://jew.ski/time-track/build/static/js/runtime~main.8b8040f4.js.map",
+    "static/js/2.c9d721df.chunk.js": "https://jew.ski/time-track/build/static/js/2.c9d721df.chunk.js",
+    "static/js/2.c9d721df.chunk.js.map": "https://jew.ski/time-track/build/static/js/2.c9d721df.chunk.js.map",
+    "index.html": "https://jew.ski/time-track/build/index.html",
+    "precache-manifest.b11a91d34bc7744b5a93adea35c6f9a1.js": "https://jew.ski/time-track/build/precache-manifest.b11a91d34bc7744b5a93adea35c6f9a1.js",
+    "service-worker.js": "https://jew.ski/time-track/build/service-worker.js",
+    "static/css/main.16e064ec.chunk.css.map": "https://jew.ski/time-track/build/static/css/main.16e064ec.chunk.css.map"
   }
 }
