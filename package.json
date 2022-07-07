@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "raj": "^1.0.0",
     "raj-compose": "^0.0.7",
     "raj-react": "^0.0.7",
